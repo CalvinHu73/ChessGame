@@ -1,0 +1,6 @@
+WHITE
+Pawn,1,0,BLACK,true
+Pawn,1,1,BLACK,true
+Rook,0,7,BLACK,true
+Queen,3,3,WHITE
+King,0,4,BLACK,true
